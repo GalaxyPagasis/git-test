@@ -7,7 +7,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
-        System.out.println("haha");
+        System.out.println("wahaha");
     }
 
     public void test(){
